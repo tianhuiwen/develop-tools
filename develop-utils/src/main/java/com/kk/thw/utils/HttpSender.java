@@ -9,6 +9,12 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 
+/**
+ * http发送数据工具类
+ *
+ * @author tianhuiwen
+ * @date 2018-08-23
+ */
 @Component
 public class HttpSender {
 
