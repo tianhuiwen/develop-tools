@@ -5,12 +5,6 @@ import org.springframework.stereotype.Component;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * 数据集合工具类
- *
- * @author tianhuiwen
- * @date 2018-10-29
- */
 @Component
 public class ArrayUtil {
 
